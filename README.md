@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="tenor.gif" width="100%">
+  <img src="Server_room_takedown_COD_Ghosts.webp" width="100%">
 </p>
