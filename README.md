@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Server_room_takedown_COD_Ghosts.webp" width="100%">
+  <img src="IMG-20260819-WA0001.jpg" width="100%">
 </p>
