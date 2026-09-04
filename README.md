@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="IMG-20260819-WA0001.jpg" width="100%">
+  <img src="Untitled455_20260904093644.png" width="100%">
 </p>
